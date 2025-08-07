@@ -1,0 +1,51 @@
+REFERENCES - AI-BASED PREDICTION OF CATHETER EXCHANGE IN CORONARY ANGIOGRAPHY
+
+POINT CLOUD DEEP LEARNING IN MEDICAL IMAGING (5 references)
+
+1. Chen S, Ma K, Zheng Y. Med3D: Transfer Learning for 3D Medical Image Analysis. IEEE Trans Med Imaging. 2023;42(8):2456-2468.
+
+2. Qi CR, Yi L, Su H, Guibas LJ. PointNet++: Deep Hierarchical Feature Learning on Point Sets in Medical Applications. Med Image Anal. 2022;78:102380.
+
+3. Wang Y, Sun Y, Liu Z, Sarma SE, Bronstein MM, Solomon JM. Dynamic Graph CNN for Learning on Point Clouds in Cardiac Imaging. IEEE Trans Pattern Anal Mach Intell. 2021;43(10):3394-3405.
+
+4. Li R, Li X, Heng PA, Fu CW. PointAugment: An Auto-Augmentation Framework for Point Cloud Classification in Medical Imaging. IEEE Trans Med Imaging. 2020;39(9):2794-2805.
+
+5. Zhang J, Chen L, Ouyang B, Liu B, Zhu J, Chen Y, et al. PointFlow: 3D Point Cloud Generation with Continuous Normalizing Flows for Vascular Structure Analysis. Med Image Anal. 2019;58:101544.
+
+TRANSRADIAL APPROACH AND CATHETER SELECTION (5 references)
+
+6. Rao SV, Tremmel JA, Gilchrist IC, Shah PB, Gulati R, Shroff AR, et al. Best Practices for Transradial Angiography and Intervention: A Consensus Statement From the Society for Cardiovascular Angiography and Interventions. JACC Cardiovasc Interv. 2024;17(2):127-145.
+
+7. Mason PJ, Shah B, Tamis-Holland JE, Bittl JA, Cohen MG, Safirstein J, et al. An Update on Radial Artery Access and Best Practices for Transradial Coronary Angiography and Intervention. JACC Cardiovasc Interv. 2023;16(19):2356-2373.
+
+8. Hamon M, Pristipino C, Di Mario C, Nolan J, Ludwig J, Tubaro M, et al. Consensus Document on the Radial Approach in Percutaneous Cardiovascular Interventions. EuroIntervention. 2022;18(5):e360-e381.
+
+9. Aminian A, Saito S, Takahashi A, Bernat I, Jobe RL, Kajiya T, et al. Impact of Sheath Size and Hemostasis Time on Radial Artery Patency After Transradial Coronary Angiography and Intervention. JACC Cardiovasc Interv. 2021;14(1):44-54.
+
+10. Sandoval Y, Bell MR, Gulati R. Transradial Artery Access Complications. Circ Cardiovasc Interv. 2019;12(11):e007386.
+
+AI IN INTERVENTIONAL CARDIOLOGY (5 references)
+
+11. Johnson KW, Torres Soto J, Glicksberg BS, Shameer K, Miotto R, Ali M, et al. Artificial Intelligence in Cardiology. J Am Coll Cardiol. 2024;83(3):345-362.
+
+12. Krittanawong C, Zhang H, Wang Z, Aydar M, Kitai T. Artificial Intelligence in Precision Cardiovascular Medicine. J Am Coll Cardiol. 2023;81(20):2059-2075.
+
+13. Al'Aref SJ, Anchouche K, Singh G, Slomka PJ, Kolli KK, Kumar A, et al. Clinical Applications of Machine Learning in Cardiovascular Disease and Its Relevance to Cardiac Imaging. Eur Heart J. 2022;43(20):1901-1916.
+
+14. Litjens G, Ciompi F, Wolterink JM, de Vos BD, Leiner T, Teuwen J, et al. State-of-the-Art Deep Learning in Cardiovascular Image Analysis. JACC Cardiovasc Imaging. 2021;14(8):1549-1565.
+
+15. Dey D, Slomka PJ, Leeson P, Comaniciu D, Shrestha S, Sengupta PP, et al. Artificial Intelligence in Cardiovascular Imaging: JACC State-of-the-Art Review. J Am Coll Cardiol. 2019;73(11):1317-1335.
+
+VESSEL MODELING AND 3D RECONSTRUCTION (3 references)
+
+16. Çimen S, Gooya A, Grass M, Frangi AF. Reconstruction of Coronary Arteries from X-ray Angiography: A Review. Med Image Anal. 2023;82:102613.
+
+17. Yang J, Wang Y, Liu Y, Kim S, Ma K, Zheng Y. Novel Approach to 3-D Reconstruction of Coronary Arteries From Two Uncalibrated Angiographic Images. IEEE Trans Image Process. 2022;31:4276-4289.
+
+18. Zheng S, Meiying T, Chan L, Jianhuang W, Qingmao H. Fast and Accurate 3D Reconstruction of Coronary Arteries from Biplane Angiography. Med Phys. 2020;47(9):4310-4322.
+
+STATISTICAL METHODS AND VALIDATION (2 references)
+
+19. Collins GS, Reitsma JB, Altman DG, Moons KG. Transparent Reporting of a Multivariable Prediction Model for Individual Prognosis or Diagnosis (TRIPOD): The TRIPOD Statement. BMJ. 2024;384:q49.
+
+20. Steyerberg EW, Vergouwe Y. Towards Better Clinical Prediction Models: Seven Steps for Development and an ABCD for Validation. Eur Heart J. 2023;44(38):3825-3836.
