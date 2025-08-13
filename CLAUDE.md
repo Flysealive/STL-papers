@@ -69,3 +69,37 @@ Current research investigates predicting catheter exchange necessity in left tra
 - Citations should follow Vancouver style for medical journals unless specified otherwise
 - Jupyter notebooks (statistical_analysis_template.ipynb) available for interactive analysis
 - No build/test scripts currently configured - analyses run directly as Python scripts
+
+## Recent Work and Context (2025-08-13)
+
+### Manuscript Update - ML Comparison Study
+Recently updated `04_Manuscripts/complete_scientific_paper.md` with new results from the subclavian-artery-pointnet GitHub repository. Key findings:
+
+**Performance Results:**
+- Random Forest: 82.98% ± 3.91% (BEST)
+- Gradient Boosting: 82.98% ± 6.12% (TIED)
+- Hybrid Multi-Modal DL: 79.77% ± 4.03%
+- XGBoost: 77.60% ± 4.28%
+
+**Key Insights:**
+- Traditional ML outperforms deep learning with small datasets (n=95)
+- Random Forest offers best stability and <1 second training time
+- Deep learning expected to excel with 500+ samples
+- Anatomical measurements contribute 23% feature importance
+
+**Implementation Strategy:**
+- n < 100: Use Random Forest with 51 geometric features
+- n = 100-500: Ensemble traditional ML methods
+- n > 500: Transition to deep learning approaches
+
+### GitHub Integration
+- Repository: https://github.com/Flysealive/subclavian-artery-pointnet
+- Main manuscript: `04_Manuscripts/complete_scientific_paper.md`
+- Updated to reflect comparative ML approach rather than single deep learning focus
+- Staged implementation roadmap based on data availability
+
+### Next Steps
+- External validation of Random Forest model
+- Web-based calculator development for clinical deployment
+- Multi-center data collection to reach n=500 for deep learning transition
+- Consider transfer learning and synthetic data augmentation
